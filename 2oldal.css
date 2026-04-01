@@ -2,11 +2,13 @@
     font-size: larger;
     background-color: aquamarine;
     height: 150%;
+    text-align: justify;
 }
 #szov2{
     font-size: larger;
     background-color: lightgreen;
     height: 150%;
+    text-align: justify;
 }
 img{
     width: 35%;
@@ -21,4 +23,7 @@ img{
         clear: both;
         display: block;
         }
+}
+body{
+    background-image:linear-gradient(to bottom, aquamarine, lightgreen) ;
 }
