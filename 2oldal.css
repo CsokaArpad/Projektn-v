@@ -1,0 +1,24 @@
+#szov1{
+    font-size: larger;
+    background-color: aquamarine;
+    height: 150%;
+}
+#szov2{
+    font-size: larger;
+    background-color: lightgreen;
+    height: 150%;
+}
+img{
+    width: 35%;
+    overflow: hidden;
+}
+
+#szoveg{
+    text-align: center;
+}
+@media screen and (max-width: 400px){
+    #teszt{
+        clear: both;
+        display: block;
+        }
+}
