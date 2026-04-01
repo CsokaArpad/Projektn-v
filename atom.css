@@ -1,30 +1,18 @@
 li{
     display: inline;
 }
-h2{
-    text-align: center  ;
+#szov1{
+    font-size: medium;
 }
-
-#kep{
-    border: 3px solid midnightblue;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 400px
+#szov2{
+    font-size: medium;
 }
-
-p{
-    text-align: center;
-    margin: auto;
+#kepek{
+    width: 35%;
 }
-h5{
+#szoveg{
     text-align: center;
 }
+#jovokep{
 
-.card{
-    border: 1.5px solid black;
-}
-
-#igen{
-    color: purple
 }
