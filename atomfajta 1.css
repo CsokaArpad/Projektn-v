@@ -1,0 +1,24 @@
+#kep{
+    margin-top: 15%;
+}
+
+#szoveg{
+    text-align: justify;
+    border: 2px solid white;
+    width: 50%;
+}
+
+footer{
+    backdrop-filter: blur(4px);
+}
+
+figcaption{
+    text-align: center;
+}
+
+a{
+    color: black;
+}
+a:hover{
+    color: green;
+}
